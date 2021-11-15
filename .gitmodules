@@ -1,0 +1,6 @@
+[submodule "Rick-and-Morty-Angular"]
+	path = Rick-and-Morty-Angular
+	url = git@github.com:PetersonFonsec/Rick-and-Morty-Angular.git
+[submodule "Rick-and-Morty-React"]
+	path = Rick-and-Morty-React
+	url = git@github.com:PetersonFonsec/Rick-and-Morty-React.git
