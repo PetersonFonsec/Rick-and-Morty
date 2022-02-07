@@ -15,6 +15,9 @@ Outras funcionalidades demontrada nesse projeto são
 - Como trabalhar com temas
 - Consumir apis REST`s
 
+## Layout
+Link do layout do [figma](https://www.figma.com/file/nlVJGe3FngMwJbkuBNOcl1/Rick-and-Morty?node-id=5%3A3) 
+
 ## Angular
 
 O projeto em angular pode ser visualizado nesse [link](http://angular-rick-morty.surge.sh)
